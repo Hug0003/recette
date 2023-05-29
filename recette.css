@@ -181,12 +181,13 @@ table.preparation tr {
     }
 }
 
-
-@media only screen and(min-width: 900px){
-    div.contenu{
+@media only screen and (min-width: 900px) {
+    div.contenu {
         margin-left: auto;
         margin-right: auto;
         width: 645px;
     }
 }
+
+
 
