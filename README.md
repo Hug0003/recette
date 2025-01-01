@@ -1,4 +1,4 @@
-# Gâteau au Chocolat
+# Objectif
 
 Une page web simple présentant une recette facile et rapide de gâteau au chocolat.
 
