@@ -20,7 +20,7 @@ Pas de prérequis car c'est du HTML CSS
 ### Étapes d'installation
 
 # Clonez le projet
-git clone https://github.com/utilisateur/projet.git
+git clone https://github.com/Hug0003/recette.git
 
 # Lancer le projet 
 Installer live server puis le lancer depuis la page index.html
