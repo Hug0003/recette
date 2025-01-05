@@ -1,5 +1,4 @@
-# Titre du Projet
-Recette de gateau au chocolat
+# Recette de gateau au chocolat
 
 ## 📄 Description
 - Page web static d'un recette de gateau au chocolat ( ingrédients, temps de préparation, temps de cuisson )
