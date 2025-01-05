@@ -1,23 +1,53 @@
-# Objectif
+# Titre du Projet
+Recette de gateau au chocolat
 
-Une page web simple présentant une recette facile et rapide de gâteau au chocolat.
+## 📄 Description
+- Page web static d'un recette de gateau au chocolat ( ingrédients, temps de préparation, temps de cuisson )
+- HTML CSS
 
-## Contenu
+## 🎥 Démo Visuelle
+![image](https://github.com/user-attachments/assets/bdbdb4a2-0747-447c-82a7-625619755bea)
 
-- **Ingrédients** : Chocolat noir, beurre, sucre, farine.
-- **Étapes** : Faire fondre le chocolat, mélanger les ingrédients, cuire au four.
-- **Temps total** : 35 minutes (10 min préparation + 25 min cuisson).
+## ✨ Fonctionnalités
+pas de fonctionnalités car c'est une page web static
 
-## Fichiers
+- [x] Apprendre à savoir faire un gâteau au chocolat   
 
-- `index.html` : Structure de la page.
-- `recette.css` : Style de la page.
-- `gateau.jpg` : Image du gâteau.
+## 🚀 Installation
+### Prérequis
+Pas de prérequis car c'est du HTML CSS
 
-## Utilisation
+### Étapes d'installation
 
-Téléchargez les fichiers et ouvrez `index.html` dans un navigateur pour visualiser la recette.
+# Clonez le projet
+git clone https://github.com/utilisateur/projet.git
+
+# Lancer le projet 
+Installer live server puis le lancer depuis la page index.html
+
+## 📚 Usage
+Essayer de faire le gateau au chocolat en vrai 
+Sinon juste regarder la recette et la D.A de la page web
 
 ---
 
-Bon appétit ! 🍫
+## 👥 Contributeurs
+
+- moi : @Hug0003  
+
+### Contribuer
+Les pull requests sont les bienvenues. Pour les changements majeurs, ouvrez une issue d'abord pour discuter de ce que vous souhaitez changer.  
+
+Consultez [CONTRIBUTING.md](CONTRIBUTING.md) pour plus d'informations.
+
+## 🛠️ Technologies Utilisées
+
+- HTML
+- CSS
+  
+## 📬 Contact
+
+Pour toute question, contactez-moi :  
+- GitHub : [@monprofil](https://github.com/Hug0003)  
+- E-mail : hugomeuriel@gmail.com
+
