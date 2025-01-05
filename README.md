@@ -33,7 +33,8 @@ Sinon juste regarder la recette et la D.A de la page web
 
 ## 👥 Contributeurs
 
-- moi : @Hug0003  
+- moi : [@monprofil](https://github.com/Hug0003)  
+  
 
 ### Contribuer
 Les pull requests sont les bienvenues. Pour les changements majeurs, ouvrez une issue d'abord pour discuter de ce que vous souhaitez changer.  
